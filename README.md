@@ -10,8 +10,8 @@
 Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
 Описание признаков в датасете:
-Признаки:
-RowNumber — индекс строки в данных;
+* Признаки:
+* RowNumber — индекс строки в данных;
 CustomerId — уникальный идентификатор клиента;
 Surname — фамилия;
 CreditScore — кредитный рейтинг;
